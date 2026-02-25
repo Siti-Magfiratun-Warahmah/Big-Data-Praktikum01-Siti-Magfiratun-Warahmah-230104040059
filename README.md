@@ -1,4 +1,4 @@
-# MODUL PRAKTIKUM 1 – PySpark Simple Job  
+# PRAKTIKUM 1 – PySpark Simple Job  
 Proyek: BIGDATA-SPARK-230104040059
 
 Program ini dibuat untuk memenuhi instruksi Praktikum 1 mata kuliah **Big Data Technology**.  
@@ -100,4 +100,5 @@ Praktikum ini menunjukkan bahwa:
 Pastikan PySpark telah terinstall:
 
 ```bash
+
 pip install pyspark
